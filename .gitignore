@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/
+results/*.pkl
+results/results.json
+figures/*.tif
+.ipynb_checkpoints/

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "BRACE: Uncertainty Aware Beamspace Channel Prediction and Precoding for High Mobility Massive MIMO (code)"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+  - family-names: "Sankar"
+    given-names: "P."
+    orcid: "https://orcid.org/0009-0008-0986-4493"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+  - family-names: "Bamila Virgin Louis"
+    given-names: "A."
+    orcid: "https://orcid.org/0000-0003-0297-4004"
+    affiliation: "St. Xavier's Catholic College of Engineering, Nagercoil, India"
+repository-code: "https://github.com/GArulDalton/brace-channel-prediction"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-20
